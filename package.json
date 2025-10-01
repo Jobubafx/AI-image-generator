@@ -1,0 +1,17 @@
+{
+  "name": "ai-image-generator",
+  "version": "1.0.0",
+  "description": "AI Image Generator using Nano Banana via OpenRouter",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
